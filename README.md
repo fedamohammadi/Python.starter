@@ -25,12 +25,12 @@ These scripts serve as an excellent resource for beginners who want to grasp the
    
 ### 7. Tuples (`tuple.py`)
    - Covers immutable data structures and tuple operations.
-   
+
 ### 8. Basic Calendar Script (`my_calendar_script.py`)
    - Implements a simple calendar-related function.
    
 ### 9. Widgets (`widgets.py`)
-   - Likely contains a basic GUI-related implementation using Python (Tkinter or another framework).
+   - Contains some basic GUI-related implementation using Python (Tkinter or another framework).
    
 ### 10. Miscellaneous (`scratch.py`, `breaking_bad.py`, `start.t.py`)
    - Additional practice scripts covering different Python topics.
